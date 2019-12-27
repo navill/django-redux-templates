@@ -19,7 +19,7 @@ EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 
 INSTALLED_APP[
-  	'django.contrib.sites',
+    'django.contrib.sites',
     'registration',  # should be immediately above 'django.contrib.admin'
     'django.contrib.admin',
     'django.contrib.auth',
