@@ -21,7 +21,7 @@ EMAIL_USE_TLS = True
 INSTALLED_APP[
   	'django.contrib.sites',
     'registration',  # should be immediately above 'django.contrib.admin'
-  	'django.contrib.admin',
+    'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
     'django.contrib.sessions',
